@@ -1,0 +1,14 @@
+ul {
+  list-style-type: none;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+
+li {
+  display: inline;
+  padding-right: 10px;
+}
+
+nav {
+  background-color: darkgreen;
+}
